@@ -18,14 +18,14 @@ This project analyzes **MLB hitting data (2022 season)** to uncover undervalued 
 
 ## Results
 📌 **Top 10 Undervalued Players**  
-Danny Jansen: OPS = 0.855 (League Avg: 0.711), RBI = 44 (League Avg: 49)
-Vinnie Pasquantino*: OPS = 0.832 (League Avg: 0.711), RBI = 26 (League Avg: 49)
-Jake Fraley*: OPS = 0.812 (League Avg: 0.711), RBI = 28 (League Avg: 49)
-Adley Rutschman#: OPS = 0.806 (League Avg: 0.711), RBI = 42 (League Avg: 49)
-Lars Nootbaar*: OPS = 0.788 (League Avg: 0.711), RBI = 40 (League Avg: 49)
-Andrew Benintendi*: OPS = 0.785 (League Avg: 0.711), RBI = 39 (League Avg: 49)
-Michael Brantley*: OPS = 0.785 (League Avg: 0.711), RBI = 26 (League Avg: 49)
-Brendan Donovan*: OPS = 0.773 (League Avg: 0.711), RBI = 45 (League Avg: 49)
+- Danny Jansen: OPS = 0.855 (League Avg: 0.711), RBI = 44 (League Avg: 49)
+- Vinnie Pasquantino*: OPS = 0.832 (League Avg: 0.711), RBI = 26 (League Avg: 49)
+- Jake Fraley*: OPS = 0.812 (League Avg: 0.711), RBI = 28 (League Avg: 49)
+- Adley Rutschman#: OPS = 0.806 (League Avg: 0.711), RBI = 42 (League Avg: 49)
+- Lars Nootbaar*: OPS = 0.788 (League Avg: 0.711), RBI = 40 (League Avg: 49)
+- Andrew Benintendi*: OPS = 0.785 (League Avg: 0.711), RBI = 39 (League Avg: 49)
+- Michael Brantley*: OPS = 0.785 (League Avg: 0.711), RBI = 26 (League Avg: 49)
+- Brendan Donovan*: OPS = 0.773 (League Avg: 0.711), RBI = 45 (League Avg: 49)
 
 ## 📊 Visualizations
 <img width="832" alt="Screenshot 2025-02-14 at 12 23 07 PM" src="https://github.com/user-attachments/assets/41b57157-bdbf-46d6-8d98-877f1fa7cae9" />
