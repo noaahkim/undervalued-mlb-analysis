@@ -36,5 +36,5 @@ This project analyzes **MLB hitting data (2022 season)** to uncover undervalued 
 ## How to Run
 1. Clone the repository:  
    ```bash
-      git clone https://github.com/noaahkim/MLB-Undervalued-Player-Analysis.git
+      git clone https://github.com/noaahkim/undervalued-mlb-analysis.git
       cd MLB-Undervalued-Player-Analysis
