@@ -30,7 +30,7 @@ Brendan Donovan*: OPS = 0.773 (League Avg: 0.711), RBI = 45 (League Avg: 49)
 ## 📊 Visualizations
 <img width="832" alt="Screenshot 2025-02-14 at 12 23 07 PM" src="https://github.com/user-attachments/assets/41b57157-bdbf-46d6-8d98-877f1fa7cae9" />
 <img width="850" alt="Screenshot 2025-02-14 at 12 23 29 PM" src="https://github.com/user-attachments/assets/20ad9943-4fa3-41a4-8268-3fc0b3af6be2" />
-<img width="840" alt="Screenshot 2025-02-14 at 12 23 40 PM" src="https://github.com/user-attachments/assets/d2f4ef4d-7ea5-4197-8394-d117cd670afb" />
+<img width="850" alt="Screenshot 2025-02-14 at 12 35 13 PM" src="https://github.com/user-attachments/assets/ee4fdebd-fe9e-4ce7-a4be-f67ba86bf0f9" />
 
 
 ## How to Run
